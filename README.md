@@ -3,7 +3,7 @@ Description
 
 ![alt text](./spacejam.jpg)
 
-This is a game developed in 40 hours during a game jam contest hold in Pisa at the Internet Festival. The theme of the game jam was "inside space/between space/outside space".
+This is a game developed in 40 hours, by me and my friend [Gabriele Cristaudo](https://github.com/gcristaudo) during a game jam in Pisa at the Internet Festival 2015. The theme of the game jam was "inside space/between space/outside space".
 
 Inside the build folder you can find the .exe file to try the game. The game is built for windows only, but you can open the project in Unity and build it for your desired platform.
 
